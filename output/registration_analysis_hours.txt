@@ -1,0 +1,11 @@
+ 4 PM:     3 registrations
+ 1 PM:     3 registrations
+ 7 PM:     2 registrations
+11 AM:     2 registrations
+ 9 PM:     2 registrations
+ 8 PM:     2 registrations
+ 5 PM:     1 registration
+ 1 AM:     1 registration
+ 6 PM:     1 registration
+ 3 PM:     1 registration
+10 AM:     1 registration
